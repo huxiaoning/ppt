@@ -1,0 +1,27 @@
+{
+    "title": "程序员PPT学习计划",
+    "description": ""程序员PPT学习计划",
+    "author": "Jett",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+        "github-buttons@2.1.0",
+        "edit-link",
+	"toggle-chapters"
+    ],
+
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "huxiaoning/ppt",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "edit-link": {
+            "base": "https://github.com/huxiaoning/ppt/edit/master",
+            "label": "Edit This Page"
+        }
+    }
+}
