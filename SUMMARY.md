@@ -28,6 +28,7 @@
 	* [PPT形状的基本功能-插入方式](03形状/03PPT形状的基本功能-插入方式.md)
 	* [PPT形状的基本功能-Shift拖拽](03形状/04PPT形状的基本功能-Shift拖拽.md)
 	* [PPT形状的基本功能-Ctrl拖拽](03形状/05PPT形状的基本功能-Ctrl拖拽.md)
+	* [PPT形状的基本功能-Ctrl+Shift拖拽](03形状/06PPT形状的基本功能-Ctrl+Shift拖拽.md)
 * [图片](04图片/README.md)
 * [排版](05排版/README.md)
 * [配色](06配色/README.md)
