@@ -6,4 +6,8 @@
 
 ![image-20201030224628862](https://raw.githubusercontent.com/huxiaoning/img/master/20201030224630.png)
 
-我们可以根据不同的级别用颜色对重点和非重点区域进行区分。
+我们可以根据不同的级别用颜色对重点和非重点区域进行区分。标题用蓝色，核心语句是用黑色，普通正文用浅灰色。
+
+#### 分割内容区域
+
+![image-20201030225214327](https://raw.githubusercontent.com/huxiaoning/img/master/20201030225217.png)
