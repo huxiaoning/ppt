@@ -7,3 +7,11 @@
 ### `Ctrl +D`快速复制图形
 
 ![快速复制图形](https://raw.githubusercontent.com/huxiaoning/img/master/20201126231119.gif)
+
+### 格式 -> 排列 -> 选择窗格
+
+![选择窗格](https://raw.githubusercontent.com/huxiaoning/img/master/20201126231738.gif)
+
+### 对齐菜单
+
+![image-20201126232103052](https://raw.githubusercontent.com/huxiaoning/img/master/20201126232104.png)
