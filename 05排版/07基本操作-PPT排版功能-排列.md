@@ -15,3 +15,15 @@
 ### 对齐菜单
 
 ![image-20201126232103052](https://raw.githubusercontent.com/huxiaoning/img/master/20201126232104.png)
+
+### 横向分布
+
+![横向分布](https://raw.githubusercontent.com/huxiaoning/img/master/20201126232437.gif)
+
+### 纵向分布
+
+![纵向分布](https://raw.githubusercontent.com/huxiaoning/img/master/20201126232724.gif)
+
+### 斜向分布（横向分布+纵向分布）
+
+![斜向分布](https://raw.githubusercontent.com/huxiaoning/img/master/20201126233126.gif)
