@@ -27,3 +27,7 @@
 ### 斜向分布（横向分布+纵向分布）
 
 ![斜向分布](https://raw.githubusercontent.com/huxiaoning/img/master/20201126233126.gif)
+
+### 四乘四矩阵
+
+![四乘四矩阵](https://raw.githubusercontent.com/huxiaoning/img/master/20201126233627.gif)
