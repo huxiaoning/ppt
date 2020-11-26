@@ -1,4 +1,4 @@
-## PPT排版功能
+## PPT排版功能-辅助线
 
 ### 辅助线：标尺、网格线、参考线
 
@@ -28,4 +28,10 @@
 
 ![添加辅助线](https://raw.githubusercontent.com/huxiaoning/img/master/20201125234912.gif)
 
-33：33
+
+
+这个时候插入一个文本框输入一些文字，拖动文本框，左侧贴近辅助线时，会有一个吸附的效果
+
+![image-20201126230326029](https://raw.githubusercontent.com/huxiaoning/img/master/20201126230327.png)
+
+辅助线可以跨幻灯片存在,这样可以做统一排版。
