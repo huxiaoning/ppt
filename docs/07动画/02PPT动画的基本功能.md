@@ -27,3 +27,7 @@
 ![image-20201203231300723](https://raw.githubusercontent.com/huxiaoning/img/master/20201203231302.png)
 
 ![image-20201203231458623](https://raw.githubusercontent.com/huxiaoning/img/master/20201203231459.png)
+
+#### 动画预览
+
+![image-20201203232426145](https://raw.githubusercontent.com/huxiaoning/img/master/20201203232427.png)
