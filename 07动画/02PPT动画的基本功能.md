@@ -21,3 +21,9 @@
 动画边上有个数字角标，表示这个形状是带有动画的，在动画菜单中选择“无”，即可删除动画。
 
 ![image-20201203230957232](https://raw.githubusercontent.com/huxiaoning/img/master/20201203230959.png)
+
+#### 添加动画（一个图形有多个动画）
+
+![image-20201203231300723](https://raw.githubusercontent.com/huxiaoning/img/master/20201203231302.png)
+
+![image-20201203231458623](https://raw.githubusercontent.com/huxiaoning/img/master/20201203231459.png)
