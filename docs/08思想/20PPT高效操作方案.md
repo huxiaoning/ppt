@@ -4,26 +4,6 @@
 
 ##### 重复性的工作：设置字体、设置颜色
 
-###### 复制 ： CTRL + D 、CTRL + 招标拖拽
-
-   CTRL + D的隐藏使用方式
-
-   ![CTRL + D的隐藏使用方式](https://raw.githubusercontent.com/huxiaoning/img/master/20201226000539.gif)
-
-###### 排列
-
-   - 快捷键：SHIFT + 拖拽 、 CTRL + SHIFT + 拖拽
-
-1. SHIFT + 拖拽 ：拖拽时图形只会水平移动或垂直移动，不会拖偏了。
-2. CTRL + SHIFT + 拖拽 ： 快速水平或垂直复制图形。
-
-
-- 格式  -> 对齐
-
-- NT插件（已经升级成iSlide）：矩阵复制、环形复制
-
-  ​	![矩阵复制、环形复制](https://raw.githubusercontent.com/huxiaoning/img/master/20201226002941.gif)
-
 ###### 批量修改：批量修改图片大小、形状颜色、字体、动画
 
 1. 批量修改图片大小
