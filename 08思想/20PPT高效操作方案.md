@@ -1,11 +1,5 @@
 ### PPT高效操作方案
 
-#### 推荐两个插件
-
-[iSlide](https://www.islide.cc/) : 以前的NT插件：下载下来是一个exe文件，关闭运行的PowerPoint,安装iSlide安装文件(.exe)，再打开PPT菜单里面就有iSlide了。
-
-[PA](http://www.papocket.com/) ： 动画支持类插件
-
 #### 哪些情况下PPT的操作效率最低？
 
 ##### 重复性的工作：设置字体、设置颜色
