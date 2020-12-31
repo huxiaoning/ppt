@@ -34,7 +34,7 @@
 
 **我没有AI,也不知道公司的logo是谁设计的怎么办？**
 
-答案：去公司官网下载logo图片，到这个[网站](https://www.vectorizer.io/)上处理一下，下载svg也是可以的。
+答案：去公司官网下载logo图片，到这个[网站](https://www.vectorizer.io/)上处理一下，下载svg也是可以的。或者这个[网站](http://vectormagic.com/home)也可以（比较麻烦，还要注册）。
 
 小技巧：
 
